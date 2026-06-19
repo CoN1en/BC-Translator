@@ -1,0 +1,2 @@
+# BC-Translator
+EN/CN
