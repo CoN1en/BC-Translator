@@ -8,8 +8,8 @@
 // @match https://*.bondage-europe.com/R*/*
 // @match https://*.bondageprojects.com/R*/*
 // @match https://*.bondage-asia.com/club/R*
-// @updateURL     https://github.com/CoN1en/BC-Translator/blob/main/TranslatorHeadset.user.js
-// @downloadURL   https://github.com/CoN1en/BC-Translator/blob/main/TranslatorHeadset.user.js
+// @updateURL     https://raw.githubusercontent.com/CoN1en/BC-Translator/main/TranslatorHeadset.user.js
+// @downloadURL   https://raw.githubusercontent.com/CoN1en/BC-Translator/main/TranslatorHeadset.user.js
 // @grant        none
 // ==/UserScript==
 
